@@ -29,6 +29,10 @@ In this repository I will do some tests presented in the book and I will leave s
 17. Scraping Remotely
 18. The Legalities and Ethics of Web Scraping
 
+## Notes
+
+- In `chapter_4/scrap_title.py` the first URL does not exists anymore
+
 ## About Me
 
 - Email: braulio@braulioti.com.br
