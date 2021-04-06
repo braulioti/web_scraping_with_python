@@ -31,7 +31,7 @@ In this repository I will do some tests presented in the book and I will leave s
 
 ## Notes
 
-- In `chapter_4/scrap_title.py` the first URL does not exists anymore
+- In `chapter_4/scrap_title.py` the first URL does not exists anymore. Use `scrap_title_fix.py`
 
 ## About Me
 
